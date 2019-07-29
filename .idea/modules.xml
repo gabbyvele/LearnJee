@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LearnJee.iml" filepath="$PROJECT_DIR$/LearnJee.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LearnJee-ear/LearnJee-ear.iml" filepath="$PROJECT_DIR$/LearnJee-ear/LearnJee-ear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LearnJee-ejb/LearnJee-ejb.iml" filepath="$PROJECT_DIR$/LearnJee-ejb/LearnJee-ejb.iml" />
+    </modules>
+  </component>
+</project>

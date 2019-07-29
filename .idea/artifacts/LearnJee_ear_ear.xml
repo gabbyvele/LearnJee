@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="ear" name="LearnJee-ear:ear">
+    <output-path>$PROJECT_DIR$/LearnJee-ear/target</output-path>
+    <root id="archive" name="LearnJee-ear.ear">
+      <element id="artifact" artifact-name="LearnJee-ear:ear exploded" />
+    </root>
+  </artifact>
+</component>
